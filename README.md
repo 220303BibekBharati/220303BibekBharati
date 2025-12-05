@@ -1,84 +1,134 @@
-<!-- PROFILE README START -->
+<h1 align="center">Hi 👋, I'm Bibek Bharati</h1>
+<h3 align="center">Frontend & Full-Stack Developer | Cybersecurity Learner | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Bibek+Bharati;Frontend+%26+Full-Stack+Developer;Cybersecurity+Learner+%26+AI+Enthusiast" alt="typing-svg"/>
+  <a href="https://bibekwebpage1.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:bibekbharati@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/bibek-bharati">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/220303BibekBharati?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://bibekwebpage1.pages.dev" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:your-email@example.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/220303BibekBharati?tab=repositories" target="_blank">📦 Projects</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full-Stack+Developer;Cybersecurity+Learner;AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/220303BibekBharati/220303BibekBharati/blob/main/assets/profile.png?raw=true" alt="Profile" width="160" style="border-radius: 50%; border: 4px solid #1E90FF" />
+</p>
+
+<h4 align="center">I build clean, responsive web applications with focus on performance, security, and user experience. Passionate about frontend development and cybersecurity.</h4>
+
+---
+
+## 📌 About Me
+
+- 👨‍💻 I'm a **Full-Stack Developer** specializing in modern web technologies
+- 🚀 Built multiple projects including **portfolio website** and **e-commerce platform**
+- 🔒 Learning **Cybersecurity** and implementing secure coding practices
+- 🤖 Exploring **AI/ML** integration in web applications
+- 🎯 Goal: Create fast, secure, and scalable web solutions
+- 📍 Based in **Nepal**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### **🌐 Portfolio Website**
+> Modern, responsive portfolio showcasing my projects and skills
+- **Live Demo:** [bibekwebpage1.pages.dev](https://bibekwebpage1.pages.dev)
+- **Tech:** HTML, CSS, JavaScript, Responsive Design
+- **Features:** Dark/Light mode, Performance optimized, Mobile-friendly
+
+### **🛒 E-commerce Platform**
+> Full-stack e-commerce application with user authentication
+- **Tech Stack:** React, Node.js, Express, MongoDB
+- **Features:** User auth, Product management, Shopping cart, Payment integration
+- **Status:** In development
+
+### **🔐 Cybersecurity Tools**
+> Collection of security tools and learning projects
+- **Tech:** Python, JavaScript, Security Libraries
+- **Includes:** Vulnerability scanners, Automation scripts, Security testing tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=220303BibekBharati&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=220303BibekBharati&theme=dark&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=220303BibekBharati&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=220303BibekBharati&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://bibekwebpage1.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:bibekbharati@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/bibek-bharati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/220303BibekBharati" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img alt="profile" src="assets/profile.png" width="160" style="border-radius:50%; border: 4px solid #1E90FF; box-shadow: 0 8px 24px rgba(30, 144, 255, 0.2)"/>
   
-  <h4>I craft fast, secure, and responsive web applications with attention to UX and performance. Passionate about frontend excellence and cybersecurity principles.</h4>
+  ![Profile Views](https://komarev.com/ghpvc/?username=220303BibekBharati&color=1E90FF&style=flat-square)
+  
+  <p>⭐️ From <a href="https://github.com/220303BibekBharati">Bibek Bharati</a></p>
+  
 </div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const bibek = {
-  pronouns: "he/him",
-  code: ["JavaScript", "Python", "HTML/CSS"],
-  frameworks: ["React", "Node.js", "Express", "Tailwind CSS"],
-  databases: ["MongoDB"],
-  tools: ["Git", "VS Code", "Cloudflare Pages", "Postman"],
-  learning: ["Cybersecurity Fundamentals", "AI/ML Integration", "Performance Optimization"],
-  hobbies: ["Building side projects", "Security CTFs", "UI/UX design"],
-  location: "Nepal"
-};
-🛠️ Tech Stack
-Frontend
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-
-Backend & Database
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-
-Tools & Others
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-
-🏆 Featured Projects
-🎯 Portfolio Website
-https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-1E90FF?style=for-the-badge
-https://img.shields.io/badge/%F0%9F%93%82_Repository-181717?style=for-the-badge&logo=github
-
-A high-performance portfolio with Lighthouse score >90, featuring responsive design, dark mode, and optimized assets. Built with HTML, CSS, JavaScript.
-
-🛒 E-commerce Platform (Full-Stack)
-https://img.shields.io/badge/%F0%9F%93%82_Repository-181717?style=for-the-badge&logo=github
-
-Complete e-commerce solution with user authentication, product management, cart system, and payment integration. Tech: Node.js, Express, MongoDB, React.
-
-🔒 Cybersecurity & AI Tools
-https://img.shields.io/badge/%F0%9F%93%82_Repository-181717?style=for-the-badge&logo=github
-
-Collection of security tools including vulnerability scanners, automation scripts, and AI-powered threat detection prototypes.
-
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=220303BibekBharati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=220303BibekBharati&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=220303BibekBharati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></div>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=220303BibekBharati&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/> </p>
-📫 Let's Connect!
-<p align="center"> <a href="https://bibekwebpage1.pages.dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/220303BibekBharati" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<div align="center">
-https://komarev.com/ghpvc/?username=220303BibekBharati&color=1E90FF&style=flat-square
-
-*Last updated: 2024-12-05*
-
-</div><!-- PROFILE README END -->
